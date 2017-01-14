@@ -217,7 +217,7 @@
           "_anchor": "extHeader12-m",
           "_params": {
             "imageSize": 60,
-            "bgText": "vizyon syncskating",
+            "bgText": "Juvenile Team",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#efefef",
             "bgTextSize": "300",
@@ -714,17 +714,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sam-2583-2000x1333-43-800x533-23.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sam-2583-2000x1333-43.jpg",
                 "caption": "Duru Tuna",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Senior",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2582-2000x1333-25-800x533-17.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2582-2000x1333-25.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2582-2000x1333-91-800x533-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2582-2000x1333-91.jpg",
                 "caption": "Tuana Tosun",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Senior",
