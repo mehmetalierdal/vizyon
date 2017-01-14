@@ -176,6 +176,60 @@
           "articleLayout": false
         },
         {
+          "bgTextP": "ANIMATED TEXT BACKGROUND",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader12",
+          "_anchor": "extHeader12-m",
+          "_params": {
+            "imageSize": 60,
+            "bgText": "vizyon syncskating",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#efefef",
+            "bgTextSize": "300",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader12.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/BVgaqXhK-g8",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "2017 Turkey SyncSkating<br>Championship&nbsp;",
+          "text": "Synchronized Ice Skating Turkey Championship Started with Juvenile Category.<br>Here is cute clip of &nbsp;Juvenile team..",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>"
+        },
+        {
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -692,60 +746,6 @@
           "_anchor": "gallery1-i",
           "articleLayout": false,
           "allItem": "All"
-        },
-        {
-          "bgTextP": "ANIMATED TEXT BACKGROUND",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader12",
-          "_anchor": "extHeader12-m",
-          "_params": {
-            "imageSize": 60,
-            "bgText": "vizyon syncskating",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#efefef",
-            "bgTextSize": "300",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.7,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader12.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/BVgaqXhK-g8",
-              "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "2017 Turkey SyncSkating<br>Championship&nbsp;",
-          "text": "Synchronized Ice Skating Turkey Championship Started with Juvenile Category.<br>Here is cute clip of &nbsp;Juvenile team..",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
