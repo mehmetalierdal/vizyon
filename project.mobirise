@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 24,
+    "uniqCompNum": 27,
     "versionPublish": "3.10.4",
     "google-analytics": "",
     "cookiesAlert": ""
@@ -138,21 +138,6 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/sam-2594e-2000x1333-47.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.2",
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "<br>The Juvenile Team",
-                "showText": true,
-                "text": "<br><br><br><br><br>Teams competing at the developmental levels of preliminary, pre-juvenile, open juvenile, open collegiate or open ...",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/sam-2568e-2000x1333-29.jpg",
                 "playVideo": false,
@@ -166,6 +151,21 @@
                 "text": "The 2015-2016 season was a remarkable one for Les Suprêmes of St. Leonard, Que. Les Suprêmes won the 2016 Canadian Synchronized Skating Championships, and followed that with a ...",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sam-2594e-2000x1333-47.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<br>The Juvenile Team",
+                "showText": true,
+                "text": "<br><br><br><br><br>Teams competing at the developmental levels of preliminary, pre-juvenile, open juvenile, open collegiate or open ...",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": true,
@@ -248,7 +248,7 @@
               "active": true,
               "src": "https://youtu.be/BVgaqXhK-g8",
               "aspectratio": "16:9",
-              "autoplay": false,
+              "autoplay": "on",
               "loop": false
             },
             "iconFont": {
