@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VIZYON SYNCSKATING</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.metaformltd.com\" target=\"_blank\">WHO WE ARE?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TEAMS &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.metaformltd.com\">Juvenile Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Senior Team</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.metaformltd.com\">Tutorials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.metaformltd.com\" target=\"_blank\">WHO WE ARE?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TEAMS &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.metaformltd.com\">Juvenile Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Senior Team</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COACHES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.metaformltd.com\">Tutorials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -147,7 +147,7 @@
                 "showTitle": true,
                 "title": "The Juvenile Team",
                 "showText": true,
-                "text": "<br><br><br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "<br><br><br><br><br>Teams competing at the developmental levels of preliminary, pre-juvenile, open juvenile, open collegiate or open ...",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -161,7 +161,7 @@
                 "showTitle": true,
                 "title": "<br><br><br><br><br><br>The Senior Team",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "The 2015-2016 season was a remarkable one for Les Suprêmes of St. Leonard, Que. Les Suprêmes won the 2016 Canadian Synchronized Skating Championships, and followed that with a ...",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -172,6 +172,148 @@
           },
           "_anchor": "slider-1",
           "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Juvenile Team",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2589-2000x1333-64-800x533-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2589-2000x1333-64.jpg",
+                "caption": "Ela Defne Erkan",
+                "active": false
+              },
+              {
+                "tags": "Juvenile Team",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2588-2000x1333-12-800x533-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2588-2000x1333-12.jpg",
+                "caption": "Nilgün Defne Erdal",
+                "active": false
+              },
+              {
+                "tags": "Juvenile Team",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2587-2000x1333-55-800x533-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2587-2000x1333-55.jpg",
+                "caption": "Selin Ülker",
+                "active": false
+              },
+              {
+                "tags": "Juvenile Team",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2586-2000x1333-78-800x533-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2586-2000x1333-78.jpg",
+                "caption": "İpek Yavuz",
+                "active": false
+              },
+              {
+                "tags": "Juvenile Team",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2585-2000x1333-17-800x533-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2585-2000x1333-17.jpg",
+                "caption": "Beril Akın",
+                "active": false
+              },
+              {
+                "tags": "Senior Team",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2584-2000x1333-20-800x533-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2584-2000x1333-20.jpg",
+                "caption": "Nehir Dal",
+                "active": false
+              },
+              {
+                "tags": "Senior Team",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2583-2000x1333-43-800x533-23.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2583-2000x1333-43.jpg",
+                "caption": "Duru Tuna",
+                "active": true
+              },
+              {
+                "tags": "Senior Team",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2582-2000x1333-25-800x533-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2582-2000x1333-25.jpg",
+                "caption": "Tuana Tosun",
+                "active": false
+              },
+              {
+                "tags": "Senior Team",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2581-2000x1333-48-800x533-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2581-2000x1333-48.jpg",
+                "caption": "Irmak Beşer",
+                "active": false
+              },
+              {
+                "tags": "Senior Team",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2580-2000x1333-52-800x533-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2580-2000x1333-52.jpg",
+                "caption": "Miray Arslan<br>",
+                "active": false
+              },
+              {
+                "tags": "Senior Team",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2579-2000x1333-17-800x533-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2579-2000x1333-17.jpg",
+                "caption": "Duru Dumanlıova",
+                "active": false
+              },
+              {
+                "tags": "Senior Team",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2578-2000x1333-53-800x533-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2578-2000x1333-53.jpg",
+                "caption": "Ata Tepedeldiren",
+                "active": false
+              }
+            ],
+            "spacing": "0",
+            "showText": true,
+            "filter": true,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-i",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -540,148 +682,6 @@
               "family": "socicon"
             }
           }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2589-2000x1333-64-800x533-32.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2589-2000x1333-64.jpg",
-                "caption": "Ela Defne Erkan",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2588-2000x1333-12-800x533-11.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2588-2000x1333-12.jpg",
-                "caption": "Nilgün Defne Erdal",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2587-2000x1333-55-800x533-78.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2587-2000x1333-55.jpg",
-                "caption": "Selin Ülker",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2586-2000x1333-78-800x533-27.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2586-2000x1333-78.jpg",
-                "caption": "İpek Yavuz",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2585-2000x1333-17-800x533-44.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2585-2000x1333-17.jpg",
-                "caption": "Beril Akın",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2584-2000x1333-20-800x533-71.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2584-2000x1333-20.jpg",
-                "caption": "Nehir Dal",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2583-2000x1333-43-800x533-23.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2583-2000x1333-43.jpg",
-                "caption": "Duru Tuna",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2582-2000x1333-25-800x533-17.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2582-2000x1333-25.jpg",
-                "caption": "Tuana Tosun",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2581-2000x1333-48-800x533-78.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2581-2000x1333-48.jpg",
-                "caption": "Irmak Beşer",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2580-2000x1333-52-800x533-19.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2580-2000x1333-52.jpg",
-                "caption": "Miray Arslan<br>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2579-2000x1333-17-800x533-95.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2579-2000x1333-17.jpg",
-                "caption": "Duru Dumanlıova",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sam-2578-2000x1333-53-800x533-66.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sam-2578-2000x1333-53.jpg",
-                "caption": "Ata Tepedeldiren",
-                "active": false
-              }
-            ],
-            "spacing": "0",
-            "showText": true,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-i",
-          "articleLayout": false,
-          "allItem": "All"
         },
         {
           "_tags": [
