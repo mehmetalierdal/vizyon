@@ -153,7 +153,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/sam-2568-2000x1333-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2568-2000x1333-3.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
