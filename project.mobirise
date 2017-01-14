@@ -32,8 +32,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Metropol Syncronize Skating",
-        "meta_descr": "",
+        "title": "Vizyon Synchronized Skating",
+        "meta_descr": "Vizyon Synchronized Skating",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -798,7 +798,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: mehmetali@metaformltd.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://buzpateni.org.tr\">Buz Pateni haberleri</a></li><br></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://buzpateni.org.tr\">Buz Pateni haberleri</a></li><li><a href=\"http://www.isu.org/en/synchronized-skating\">International</a> <a href=\"http://www.isu.org/en/synchronized-skating\">Skating Union</a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "mehmetalierdal@icloud.com",
