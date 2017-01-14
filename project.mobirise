@@ -139,10 +139,11 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/sam-2594-2000x1333-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2594e-2000x1333-47.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.2",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "<br>The Juvenile Team",
@@ -153,10 +154,11 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/sam-2568-2000x1333-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2568e-2000x1333-29.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.2",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "<br><br><br><br><br><br>The Senior Team",
